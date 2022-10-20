@@ -24,7 +24,11 @@ I will issue DMCA takedown requests if you choose to modify content outside of t
 Please carefully read this before contributing.
 ## Editing
  1. Clone the default branch. Set your own name.
+<<<<<<< Updated upstream
  2. Edit the files within Roblox Studio.
+=======
+ 2. Modify a file or create a new file from a template in the "Templates" directory. Do not create a new file from scratch.
+>>>>>>> Stashed changes
  3. Save modified files.
  4. Commit and Push any changes. Remember not to include any .lock files.
  5. Create a new Pull Request at https://github.com/TeamDsYkX/EverythingTycoonRoblox/compare.
@@ -39,4 +43,8 @@ Please carefully read this before contributing.
 ## Issues and Discussions
  1. Identify if this should be posted as an issue, or as a discussion.
  2. Write out the post, and make sure to tag it appropriately.
+<<<<<<< Updated upstream
  3. Monitor any updates to the post carefully.
+=======
+ 3. Monitor any updates to the post carefully.
+>>>>>>> Stashed changes
