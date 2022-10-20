@@ -28,4 +28,4 @@ If a repository has no license. You  **cannot**  modify or redistribute this rep
 You are however **allowed** to modify this repository only to contribute to the parent project, found at https://github.com/TeamDsYkX/EverythingTycoonRoblox.
 **GitHub only allows you to fork this repository, and view the code, but nothing more.** However, I request that you do **not** fork this repository, but instead create a new branch.
 
-I will issue DMCA takedown requests if you choose to modify content outside of the parent repository (https://github.com/TeamDsYkX/EverythingTycoonRoblox) or redistribute any content within this repository.
+I will issue DMCA takedown requests if you choose to modify content outside of the repository (https://github.com/TeamDsYkX/EverythingTycoonRoblox) or redistribute any content within this repository.
