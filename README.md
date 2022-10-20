@@ -14,7 +14,7 @@ Game is available at https://www.roblox.com/games/7179678550/
  5. Create a new Pull Request at https://github.com/TeamDsYkX/EverythingTycoonRoblox/compare.
  6. Set "Compare" to your edited branch, and "Base" to the default branch, and create the Pull Request.
  7. Pull Request will either be merged or rejected, do not merge the file yourself if you are able to.
- 8. Your changes will be reflected in game in the next update, if approved.
+ 8. Your changes will be reflected in game in the next update, if merged.
 # Repository Usage
 Please **only** contribute to this repository
 Please do not:
