@@ -5,22 +5,22 @@
 > subscription is active. Everything Tycoon is a TeamDsYkX production.
 
 Game available at https://www.roblox.com/games/7179678550/
-# Repository Usage
-Please **only** contribute to this repository
-Please do not:
- - Fork this repository. Instead, make a new branch.
- - Post this work online.
+# Licensing and Usage
+No one may reproduce, distribute, or create derivative works from the work of this organisation, TeamDsYkX.
 
-Remember to follow Github's [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) when contributing.
+Since this is a public repository on GitHub, according to the [Terms of Service](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-terms-of-service), other users of GitHub.com have the right to view and fork any unlicensed repository.
 
-This repository is not licensed, and thus is **not** Open Source or Free
-If a repository has no license. You  **cannot**  modify or redistribute this repository without  **explicit**  permission from the copyright holder. 
-You are however **allowed** to modify this repository only to contribute to the parent project, found at https://github.com/TeamDsYkX/EverythingTycoonRoblox.
-**GitHub only allows you to fork this repository, and view the code, but nothing more.** However, I request that you do **not** fork this repository, but instead create a new branch.
+> If you find software that doesn’t have a license, that generally means you have no permission from the creators of the software to use, modify, or share the software. Although a code host such as GitHub may allow you to view and fork the code, this does not imply that you are permitted to use, modify, or share the software for any purpose.
+>
+>Your options:
+>
+>- Ask the maintainers nicely to add a license. Unless the software includes strong indications to the contrary, lack of a license is probably an oversight. If the software is hosted on a site like GitHub, open an issue requesting a license and include a link to this site. If you’re bold and it’s fairly obvious what license is most appropriate, open a pull request to add a license – see “suggest this license” in the sidebar of the page for each license on this site (e.g., MIT).
+>- Don’t use the software. Find or create an alternative that is under an open source license.
+>- Negotiate a private license. Bring your lawyer.
 
-I will issue DMCA takedown requests if you choose to modify content outside of the parent repository (https://github.com/TeamDsYkX/EverythingTycoonRoblox) or redistribute any content within this repository.
+https://choosealicense.com/no-permission/
 # Contributing
-Please carefully read this before contributing.
+Carefully read this and remember to follow Github's [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) when contributing.
 ## Editing
  1. Clone the default branch. Set your own name.
  2. Modify a file or create a new file from a template in the "Templates" directory. Do not create a new file from scratch.
