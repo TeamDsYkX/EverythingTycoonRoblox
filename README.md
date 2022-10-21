@@ -23,6 +23,7 @@ https://choosealicense.com/no-permission/
 # Contributing
 Carefully read this and remember to follow Github's [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) when contributing.
 ## Editing
+If you require assistance with any of the following steps, please view [this](https://github.com/TeamDsYkX/EverythingTycoonRoblox/blob/main/CONTRIBUTING.md) file.
  1. Clone the default branch. Set your own name.
  2. Modify a file or create a new file from a template in the "Templates" directory. Do not create a new file from scratch.
  3. Save modified files.
@@ -31,6 +32,7 @@ Carefully read this and remember to follow Github's [Terms of Service](https://d
  6. Set "Compare" to your edited branch, and "Base" to the default branch, and create the Pull Request.
  7. Pull Request will either be merged or rejected, please monitor the Pull Request for any updates, changes, or requests.
  8. Your changes will be reflected in game in the next update, if merged.
+Please ensure that your changes follow the project [style](https://github.com/TeamDsYkX/EverythingTycoonRoblox/blob/main/CONTRIBUTING.md#style).
 ## Reviewing and Approving PRs
  1. Click "Files changed" on the Pull Request in question.
  2. Click "Review".
