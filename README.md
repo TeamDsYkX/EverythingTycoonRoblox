@@ -4,7 +4,7 @@
 > users get all tiers and paid in-game content for free while their
 > subscription is active. Everything Tycoon is a TeamDsYkX production.
 
-Game is available at https://www.roblox.com/games/7179678550/
+Game available at https://www.roblox.com/games/7179678550/
 # Repository Usage
 Please **only** contribute to this repository
 Please do not:
