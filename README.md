@@ -1,4 +1,3 @@
-
 # Everything Tycoon, the Roblox Project
 
 > A game with tycoons, more tycoons, and even more tycoons. Premium
@@ -14,7 +13,7 @@ Please do not:
 
 Remember to follow Github's [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) when contributing.
 
-This repository has no licensed, and thus is **not** Open Source or Free
+This repository is not licensed, and thus is **not** Open Source or Free
 If a repository has no license. You  **cannot**  modify or redistribute this repository without  **explicit**  permission from the copyright holder. 
 You are however **allowed** to modify this repository only to contribute to the parent project, found at https://github.com/TeamDsYkX/EverythingTycoonRoblox.
 **GitHub only allows you to fork this repository, and view the code, but nothing more.** However, I request that you do **not** fork this repository, but instead create a new branch.
@@ -24,11 +23,7 @@ I will issue DMCA takedown requests if you choose to modify content outside of t
 Please carefully read this before contributing.
 ## Editing
  1. Clone the default branch. Set your own name.
-<<<<<<< Updated upstream
- 2. Edit the files within Roblox Studio.
-=======
  2. Modify a file or create a new file from a template in the "Templates" directory. Do not create a new file from scratch.
->>>>>>> Stashed changes
  3. Save modified files.
  4. Commit and Push any changes. Remember not to include any .lock files.
  5. Create a new Pull Request at https://github.com/TeamDsYkX/EverythingTycoonRoblox/compare.
@@ -43,8 +38,4 @@ Please carefully read this before contributing.
 ## Issues and Discussions
  1. Identify if this should be posted as an issue, or as a discussion.
  2. Write out the post, and make sure to tag it appropriately.
-<<<<<<< Updated upstream
  3. Monitor any updates to the post carefully.
-=======
- 3. Monitor any updates to the post carefully.
->>>>>>> Stashed changes
