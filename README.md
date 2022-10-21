@@ -7,6 +7,7 @@
 Game available at https://www.roblox.com/games/7179678550/
 # Licensing and Usage
 No one may reproduce, distribute, or create derivative works from any work of this GitHub organisation, TeamDsYkX, that does not have a license.
+Only those explicitly granted permission by maintainers of the project may modify this project with the exclusive purpose of contributing to the parent project, and nothing else.
 
 Since this is a public repository on GitHub, according to the [Terms of Service](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-terms-of-service), other users of GitHub.com have the right to view and fork any unlicensed repository.
 
