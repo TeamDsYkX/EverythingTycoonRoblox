@@ -1,5 +1,5 @@
 Before you start, ensure that you are either part of the [Everything Tycoon](https://github.com/orgs/TeamDsYkX/teams/everything-tycoon) team or have received explicit permission from a member within the team to modify the code. You are reminded that you are only allowed to modify the code with the intent of contributing to the parent project if you are given such permission.
-# Preperation
+# Preparation
 Before you start contributing, you must complete these steps.
 ## Understand Goals
 Before you start, you should determine the aspects you wish to contribute.
