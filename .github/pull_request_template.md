@@ -9,7 +9,7 @@ Please select all relevant options.
 - [ ] This resolves an issue
 - [ ] This fixes a bug not reflected in an issue
 - [ ] This changes the file path of something
-- [ ] This modifies the documentation of the project
+- [ ] This modifies a GitHub file
 # Tests Done
 Please select the most relevant option.
 If you would like help fixing your changes, open a discussion instead.
