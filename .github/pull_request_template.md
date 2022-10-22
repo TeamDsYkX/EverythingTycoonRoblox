@@ -4,10 +4,11 @@ If this fixes an issue, please specify one: Fixes Issue #(issue)
 ## Type of change
 Please select all relevant options.
 - [ ] This adds a new tycooon
-- [ ] This adds content to an existing tycoon
+- [ ] This modifies an existing tycoon
 - [ ] This modifies the lobby
-- [ ] This fixes an existing bug in an existing issue
+- [ ] This resolves an issue
 - [ ] This fixes a bug not reflected in an issue
+- [ ] This changes the file path of something
 - [ ] This modifies the documentation of the project
 # Tests Done
 Please select the most relevant option.
