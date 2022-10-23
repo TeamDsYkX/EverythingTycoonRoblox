@@ -3,7 +3,7 @@ Please include a summary of the change
 If this fixes an issue, please specify one: Fixes Issue #(issue)
 ## Type of change
 Please select all relevant options.
-- [ ] This adds a new tycooon
+- [ ] This adds a new tyooon
 - [ ] This modifies an existing tycoon
 - [ ] This modifies the lobby
 - [ ] This resolves an issue
