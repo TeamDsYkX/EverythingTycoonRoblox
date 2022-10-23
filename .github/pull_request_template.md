@@ -3,7 +3,7 @@ Please include a summary of the change
 If this fixes an issue, please specify one: Fixes Issue #(issue)
 ## Type of change
 Please select all relevant options.
-- [ ] This adds a new tycooon
+- [ ] This adds a new tyooon
 - [ ] This modifies an existing tycoon
 - [ ] This modifies the lobby
 - [ ] This resolves an issue
@@ -18,6 +18,7 @@ If you would like help fixing your changes, open a discussion instead.
 - [ ] Verified any changes made are accurate
 - [ ] Tested by someone else
 - [ ] Not tested
+- [ ] Testing is not needed
 ## Test Configuration:
 This is optional, but filling this in will increase the likelihood of the PR being merged.
 * OS Used:
