@@ -18,6 +18,7 @@ If you would like help fixing your changes, open a discussion instead.
 - [ ] Verified any changes made are accurate
 - [ ] Tested by someone else
 - [ ] Not tested
+- [ ] Testing is not needed
 ## Test Configuration:
 This is optional, but filling this in will increase the likelihood of the PR being merged.
 * OS Used:
