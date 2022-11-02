@@ -1,0 +1,55 @@
+local WorkspaceName = "PLEASE ENTER WORKSPACE NAME"
+local UIName = "PLEASE ENTER NAME SHOWN TO PLAYERS"
+local TycoonTitle = "PLEASE ENTER NAME SHOWN TO PLAYERS WHEN VIEWED"
+local TycoonDetails = "PLEASE ENTER DETAILS SHOWN TO PLAYERS WHEN VIEWED"
+local TycoonThumbID = "PLEASE ENTER THE ROBLOX ASSET ID OF IMAGE SHOWN TO PLAYERS WHEN VIEWED"
+local PlaceID = "PLEASE ENTER THE PLACE ID OF THE GAME"
+local ExpandFrame = true -- PLEASE ENTER EITHER TRUE OR FALSE TO EXPAND UI FRAME
+
+-- PLEASE DO NOT EDIT AFTER THIS LINE --
+
+	-- Internal Variables --
+	local FrontendWorkspace = game.StarterGui.ScreenGui.NavCatalog.Library.Free.Container
+	local BackendWorkspace = game.ReplicatedStorage.GameDetails
+	local FrameSize = FrontendWorkspace.Parent.Parent.CanvasSize
+
+	-- Data Processing --
+	local TycoonThumb = ("rbxassetid://" .. TycoonThumbID)
+	print(TycoonThumb)
+
+	-- Instancing --
+	local CatalogButton = Instance.new("TextButton",FrontendWorkspace)
+	local Rounding = Instance.new("UICorner",FrontendWorkspace.TextButton)
+	local MetaFolder = Instance.new("Folder",BackendWorkspace)
+	local MetaTitle = Instance.new("StringValue",BackendWorkspace.Folder)
+	local MetaDetails = Instance.new("StringValue",BackendWorkspace.Folder)
+	local MetaThumb = Instance.new("StringValue",BackendWorkspace.Folder)
+	local MetaPlace = Instance.new("IntValue",BackendWorkspace.Folder)
+
+	-- Catalog Button --
+	CatalogButton.Name = WorkspaceName
+	CatalogButton.Text = UIName
+	CatalogButton.Font = "FredokaOne"
+	CatalogButton.TextScaled = true
+	CatalogButton.BackgroundColor3 = Color3.fromRGB(80,80,80)
+	CatalogButton.TextColor3 = Color3.fromRGB(255,255,255)
+
+	-- Button Rounding --
+	Rounding.CornerRadius = UDim.new(Rounding.CornerRadius.Scale, 20)
+
+	-- Meta Files --
+	MetaFolder.Name = WorkspaceName
+	MetaTitle.Name = ("TycoonTitle")
+	MetaTitle.Value = (TycoonTitle)
+	MetaDetails.Name = ("TycoonDetails")
+	MetaDetails.Value = (TycoonDetails)
+	MetaThumb.Name = ("TycoonImage")
+	MetaThumb.Value = (TycoonThumb)
+	MetaPlace.Name = ("PlaceID")
+	MetaPlace.Value = (PlaceID)
+
+	-- Frame Expansion --
+	--if ExpandFrame == true then
+		--local ExpansionValue = (FrameSize.Y.Offset + 120)
+		--FrameSize = UDim2.new(1, 0, 0, ExpansionValue)
+	--end
