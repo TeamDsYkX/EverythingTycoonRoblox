@@ -6,11 +6,9 @@
 
 Game available at https://www.roblox.com/games/7179678550/
 # Licensing and Usage
-No one may reproduce, distribute, or create derivative works from any work of this GitHub organisation, TeamDsYkX, that does not have a license.
-Only those explicitly granted permission by maintainers of the project may modify this project with the exclusive purpose of contributing to the parent project, and nothing else.
-
-Since this is a public repository on GitHub, according to the [Terms of Service](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-terms-of-service), other users of GitHub.com have the right to view and fork any unlicensed repository.
-
+You may not reproduce, distribute, or create derivative works of this repository.
+You are, however, allowed to fork and modify this repository with the sole intention of contributing to the project.
+Remember, just because GitHub allows you to view and fork this repository, this does not mean you can use it.
 > If you find software that doesn’t have a license, that generally means you have no permission from the creators of the software to use, modify, or share the software. Although a code host such as GitHub may allow you to view and fork the code, this does not imply that you are permitted to use, modify, or share the software for any purpose.
 >
 >Your options:
@@ -21,9 +19,8 @@ Since this is a public repository on GitHub, according to the [Terms of Service]
 
 https://choosealicense.com/no-permission/
 # Contributing
-Carefully read this and remember to follow Github's [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) when contributing.
-## Editing
-If you require assistance with any of the following steps, please view [this](https://github.com/TeamDsYkX/EverythingTycoonRoblox/blob/main/CONTRIBUTING.md) file.
+You can find the style guide [here](https://github.com/TeamDsYkX/EverythingTycoonRoblox/blob/main/.github/CONTRIBUTING.md)
+## Editing and Creating PRs
  1. Clone the default branch. Set your own name.
  2. Modify a file or create a new file from a template in the "Templates" directory. Do not create a new file from scratch.
  3. Save modified files.
