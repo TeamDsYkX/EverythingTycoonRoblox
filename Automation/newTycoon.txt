@@ -15,7 +15,6 @@ local ExpandFrame = true -- PLEASE ENTER EITHER TRUE OR FALSE TO EXPAND UI FRAME
 
 	-- Data Processing --
 	local TycoonThumb = ("rbxassetid://" .. TycoonThumbID)
-	print(TycoonThumb)
 
 	-- Instancing --
 	local CatalogButton = Instance.new("TextButton",FrontendWorkspace)
