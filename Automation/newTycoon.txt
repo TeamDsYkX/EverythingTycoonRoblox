@@ -49,7 +49,7 @@ local ExpandFrame = true -- PLEASE ENTER EITHER TRUE OR FALSE TO EXPAND UI FRAME
 	MetaPlace.Value = (PlaceID)
 
 	-- Frame Expansion --
-	--if ExpandFrame == true then
-		--local ExpansionValue = (FrameSize.Y.Offset + 120)
-		--FrameSize = UDim2.new(1, 0, 0, ExpansionValue)
-	--end
+	if ExpandFrame then
+		local ExpansionValue = (FrameSize.Y.Offset + 120)
+		FrameSize = UDim2.new(1, 0, 0, ExpansionValue)
+	end
